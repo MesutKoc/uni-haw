@@ -1,7 +1,8 @@
 # uni-haw
 
 Contributors: Mesut Koc, Anton Kirakozov (zum Teil Praktikumspartner), Igor Akhripov (zum Teil Praktikumspartner)
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 # Description 
 
