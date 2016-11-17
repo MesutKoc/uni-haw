@@ -1,2 +1,0 @@
-
-#alle verschiedenen akteuere
