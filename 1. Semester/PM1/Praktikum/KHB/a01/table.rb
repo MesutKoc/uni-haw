@@ -1,6 +1,3 @@
-# Author:: Sascha Majewsky
-# Author:: Maximilian Janzen
-#
 # A simple tool that convert lengths to metric, angel-saxon and potrzebie measures.
 
 # initialize the class which creates a table to compare one unit with every other supported measurement unit for different values.
