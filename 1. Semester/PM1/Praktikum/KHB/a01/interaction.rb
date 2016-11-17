@@ -1,6 +1,3 @@
-# Author:: Sascha Majewsky
-# Author:: Maximilian Janzen
-#
 # A simple tool that convert lengths to metric, angel-saxon and potrzebie measures.
 
 # initialize the class which contains methods for input/output from/for user
@@ -81,8 +78,3 @@ class Interaction
   end # end method
 
 end # end class
-
-#ToDO
-#Aufgabe 5
-#Code k�rzen
-#Richtig runden  (teilweise erledigt?)
