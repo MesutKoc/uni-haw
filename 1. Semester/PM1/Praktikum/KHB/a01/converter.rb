@@ -1,6 +1,3 @@
-# Author:: Sascha Majewsky
-# Author:: Maximilian Janzen
-#
 # A simple tool that convert lengths to metric, angel-saxon and potrzebie measures.
 
 # initialize the class which converts an amount and given unit to a desired unit
@@ -62,4 +59,3 @@ length_mm
   end
   
 end
-
