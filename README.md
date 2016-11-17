@@ -1,8 +1,10 @@
 === uni-haw ===
+
 Contributors: Mesut Koc, Anton Kirakozov (zum Teil Praktikumspartner), Igor Akhripov (zum Teil Praktikumspartner)
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
+
 Hier findest Du alle bisherigen Praktikumsaufgaben, die zu meiner Zeit programmiert wurden, selbstverständlich von mir mit von den oben genannten Authoren.
 
 Sollte eine Lösung unklar sein oder etwas fehlen, bitte lass ein Issue da.
