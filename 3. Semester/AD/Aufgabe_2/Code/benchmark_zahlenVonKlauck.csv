@@ -1,0 +1,2 @@
+Zahlen;Laufzeit Insertionsort fuer zahlen.dat;Laufzeit Quicksort (Pivot links) fuer zahlen.dat;Laufzeit Quicksort (Pivot rechts) fuer zahlen.dat;Laufzeit Quicksort (Pivot random) fuer zahlen.dat;Laufzeit Quicksort (Pivot median) fuer zahlen.dat;
+20003;6178152;8330;8113;8120;8113;

@@ -1,0 +1,7 @@
+Importierter Text;gewaehlte Groesse der Hash Tabelle;Durchschnittliche Laufzeit fuer insert mit Hilfe lineares Sondieren;Gesamte Laufzeit fuer insert mit Hilfe lineares Sondieren;Durchschnittliche Laufzeit fuer insert mit Hilfe quadratisches Sondieren;Gesamte Laufzeit fuer insert mit Hilfe quadratisches Sondieren;Durchschnittliche Laufzeit fuer insert mit Hilfe Double-Hashing;Gesamte Laufzeit fuer insert mit Hilfe Double-Hashing;Durchschnittliche Laufzeit fuer find mit Hilfe lineares Sondieren;Gesamte Laufzeit fuer find mit Hilfe lineares Sondieren;Durchschnittliche Laufzeit fuer find mit Hilfe quadratisches Sondieren;Gesamte Laufzeit fuer find mit Hilfe quadratisches Sondieren;Durchschnittliche Laufzeit fuer find mit Hilfe Double-Hashing;Gesamte Laufzeit fuer find mit Hilfe Double-Hashing;
+texta.txt;40;3627839;362783912;1868171;186817158;5581667;558166705;888;88830;1046;104677;13005;1300517;
+texta.txt;41;848170;84817016;882665;88266569;3501608;350160833;224;22468;92636;9263617;320;32036;
+texta.txt;103;260;26060;372;37240;825;82535;212;21268;322;32273;379;37905;
+textb.txt;40;168070;1663056463;157439;1557866414;160687;1590004111;117;1165608;121;1202606;116;1155364;
+textb.txt;41;165750;1640098594;148351;1467936996;153019;1514123544;110;1089499;126;1250069;116;1156574;
+textb.txt;103;232153;2297154228;234359;2318987359;226139;2237652021;90;896183;90;892419;73;730261;

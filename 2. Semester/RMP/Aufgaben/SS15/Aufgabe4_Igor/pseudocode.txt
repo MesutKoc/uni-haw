@@ -1,0 +1,65 @@
+procedure main()
+     TI-Board initialisieren
+
+     PrintStringListe(StringArray)
+     // Ausgabe von dem StringArray bevor Sortierung
+     SortiereStrings(StringArray)
+     // Sortierung des StringArrays
+     PrintStringListe(StringArray)
+     // Ausgabe von dem StringArray nach Sortierung
+end procedure
+
+procedure PrintStringliste(StringArray)
+     Index <- 0
+
+     while StringArray[Index] != "\0\0" do
+          Ausgabe von aktuellem String
+          Index <- Index + 1
+     end while
+
+end procedure
+
+procedure getNum(String)
+     Index <- 0
+     DecimalBase <- 10
+     Result <- 0
+
+     while String[Index] != '\0' do
+     // Traversierung über den String
+          if String[Index] >= '0' and String[Index] <= '9' then
+               Result <- Result * DecimalBase + (String[Index] - '0')
+               // Differenz zwischen aktuellem ASCII Wert und '0' ergibt Integer
+               // Akkumulieren den Wert aus mehreren dezimalen Ziffern
+          end if
+     end while
+
+     return Result
+
+end procedure
+
+procedure SortiereStrings(StringArray)
+     Exchanged <- true
+
+     while Exchanged do
+          Exchanged <- false
+          Index <- 1
+
+          while StringArray[Index] != "\0\0" do
+               // Vergleichen 2 Zahlen in nebenstehenden Strings miteinander 
+               // und tauschen sie um, wenn die erste grösser als zweite ist
+               numberFromActualString <- getNum(StringArray[Index])
+               numberFromPreviousString <- getNum(StringArray[Index - 1])
+               
+               if numberFromPreviousString > numberFromActualString then
+                    // Umtausch der Strings
+                    TempString <- StringArray[Index - 1]
+                    StringArray[Index - 1] <- StringArray[Index]
+                    StringArray[Index] <- TempString
+                    Exchanged <- true
+               end if
+
+               Index <- Index + 1
+
+          end while
+     end while
+end procedure

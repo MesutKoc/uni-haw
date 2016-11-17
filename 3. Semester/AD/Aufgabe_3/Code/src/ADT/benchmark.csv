@@ -1,0 +1,7 @@
+Zahlen;Laufzeit insert fuer zufaellige Zahlen;Laufzeit insert fuer linkssortierte Zahlen;Laufzeit insert fuer rechtssortierte Zahlen;Anzahl der lesenden Zugriffe fuer zufaellige Zahlen;Anzahl der schreibenden Zugriffe fuer zufaellige Zahlen;Anzahl der linken Rotationen fuer zufaellige Zahlen;Anzahl der rechten Rotationen fuer zufaellige Zahlen;Anzahl der lesenden Zugriffe fuer linkssortierte Zahlen;Anzahl der schreibenden Zugriffe fuer linkssortierte Zahlen;Anzahl der linken Rotationen fuer linkssortierte Zahlen;Anzahl der rechten Rotationen fuer linkssortierte Zahlen;Anzahl der lesenden Zugriffe fuer rechtssortierte Zahlen;Anzahl der schreibenden Zugriffe fuer rechtssortierte Zahlen;Anzahl der linken Rotationen fuer rechtssortierte Zahlen;Anzahl der rechten Rotationen fuer rechtssortierte Zahlen
+12;536571;19296;25864;296;116;5;6;367;150;8;0;334;150;0;8;
+100;175710;146972;107150;4244;1544;33;36;5434;2004;93;0;4861;2004;0;93;
+500;267259;151898;141225;29195;10172;165;173;35324;12424;491;0;31335;12424;0;491;
+1000;435579;204447;164625;64969;22414;377;360;77729;26894;990;0;68752;26894;0;990;
+5000;1285799;648237;704891;400536;135374;1760;1783;472520;158540;4987;0;415711;158540;0;4987;
+8000;1734515;1116658;1186449;678788;227842;2809;2785;790520;263540;7987;0;694711;263540;0;7987;
